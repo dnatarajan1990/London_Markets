@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cucumber-reporting-4.8.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/masterthought/cucumber-reporting/4.8.0/cucumber-reporting-4.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
